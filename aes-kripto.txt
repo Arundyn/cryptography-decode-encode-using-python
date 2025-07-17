@@ -1,0 +1,3 @@
+Masukkan kunci dalam base64: fP3WMrFkrcE2+MEKG/rriw==
+Masukkan IV dalam base64: OB71jbj8VKz4dQdB6e5G5A==
+Masukkan teks terenkripsi dalam base64: L/gp5Yiy3yUSWcu0t7twtXLVYF6fevWY5ePKE55WOOsq5MT15O2ybDq5VHsKUDufdher071XfalhmFFmr/ScJw==
